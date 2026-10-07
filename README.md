@@ -4,19 +4,6 @@
 
 An end-to-end **IT Help Desk Analytics** project using **MySQL/SQL and Power BI** to analyze case resolution performance, SLA compliance, service-agent efficiency, workload, priority risk, monthly trends, and case severity.
 
-## 📊 Dashboard Preview
-
-### Executive Overview
-![IT Help Desk Executive Overview](https://raw.githubusercontent.com/yash2333/IT-Help-Desk-SQL-PowerBI-Analysis/main/PowerBI/Dashboard_Executive_Overview.webp)
-
-### Agent Performance
-![IT Help Desk Agent Performance](https://raw.githubusercontent.com/yash2333/IT-Help-Desk-SQL-PowerBI-Analysis/main/PowerBI/Dashboard_Agent_Performance.webp)
-
-### SLA Trends & Risk Distribution
-![IT Help Desk SLA Trends and Risk Distribution](https://raw.githubusercontent.com/yash2333/IT-Help-Desk-SQL-PowerBI-Analysis/main/PowerBI/Dashboard_SLA_Trends.webp)
-
-> The dashboard contains interactive Power BI pages for executive overview, agent performance, SLA trends/risk distribution, and detailed agent analysis.
-
 ## 🎯 Key Analysis
 
 - Average Resolution Time by Service Agent
