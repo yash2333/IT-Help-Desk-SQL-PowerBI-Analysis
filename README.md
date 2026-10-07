@@ -7,13 +7,13 @@ An end-to-end **IT Help Desk Analytics** project using **MySQL/SQL and Power BI*
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-![IT Help Desk Executive Overview](PowerBI/Dashboard_Executive_Overview.webp)
+![IT Help Desk Executive Overview](https://raw.githubusercontent.com/yash2333/IT-Help-Desk-SQL-PowerBI-Analysis/main/PowerBI/Dashboard_Executive_Overview.webp)
 
 ### Agent Performance
-
+![IT Help Desk Agent Performance](https://raw.githubusercontent.com/yash2333/IT-Help-Desk-SQL-PowerBI-Analysis/main/PowerBI/Dashboard_Agent_Performance.webp)
 
 ### SLA Trends & Risk Distribution
-
+![IT Help Desk SLA Trends and Risk Distribution](https://raw.githubusercontent.com/yash2333/IT-Help-Desk-SQL-PowerBI-Analysis/main/PowerBI/Dashboard_SLA_Trends.webp)
 
 > The dashboard contains interactive Power BI pages for executive overview, agent performance, SLA trends/risk distribution, and detailed agent analysis.
 
@@ -69,9 +69,9 @@ IT-Help-Desk-SQL-PowerBI-Analysis/
 ├── SQL/
 │   └── IT_Help_Desk_Analysis.sql
 ├── PowerBI/
-│   ├── Dashboard_Executive_Overview.jpg
-│   ├── Dashboard_Agent_Performance.jpg
-│   └── Dashboard_SLA_Trends.jpg
+│   ├── Dashboard_Executive_Overview.webp
+│   ├── Dashboard_Agent_Performance.webp
+│   └── Dashboard_SLA_Trends.webp
 └── Insights/
     └── business_insights.md
 ```
