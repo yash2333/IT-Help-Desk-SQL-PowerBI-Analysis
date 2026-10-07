@@ -4,6 +4,19 @@
 
 An end-to-end **IT Help Desk Analytics** project using **MySQL/SQL and Power BI** to analyze case resolution performance, SLA compliance, service-agent efficiency, workload, priority risk, monthly trends, and case severity.
 
+## 📊 Dashboard Preview
+
+### Executive Overview
+![IT Help Desk Executive Overview](PowerBI/Dashboard_Executive_Overview.jpg)
+
+### Agent Performance
+![IT Help Desk Agent Performance](PowerBI/Dashboard_Agent_Performance.jpg)
+
+### SLA Trends & Risk Distribution
+![IT Help Desk SLA Trends](PowerBI/Dashboard_SLA_Trends.jpg)
+
+> The dashboard contains interactive Power BI pages for executive overview, agent performance, SLA trends/risk distribution, and detailed agent analysis.
+
 ## 🎯 Key Analysis
 
 - Average Resolution Time by Service Agent
@@ -36,11 +49,16 @@ An end-to-end **IT Help Desk Analytics** project using **MySQL/SQL and Power BI*
 - TIMESTAMPDIFF()
 - GROUP BY & ORDER BY
 
-## 📊 Dashboard
+## 📈 Business Insights
 
-The Power BI dashboard presents the analytical results in an interactive format for monitoring help-desk performance and identifying SLA and resolution-time trends.
+The project focuses on operational questions such as:
 
-> Add the final dashboard screenshot to the **PowerBI** folder and embed it here when ready.
+- Which service agents have higher-than-average resolution times?
+- How effectively is the help desk meeting SLA targets?
+- Which priorities carry the highest SLA risk?
+- How does resolution performance change over time?
+- Which case types and severity levels require the most attention?
+- How is case workload distributed across service agents?
 
 ## 📁 Project Structure
 
@@ -51,14 +69,16 @@ IT-Help-Desk-SQL-PowerBI-Analysis/
 ├── SQL/
 │   └── IT_Help_Desk_Analysis.sql
 ├── PowerBI/
-│   └── Dashboard.png
+│   ├── Dashboard_Executive_Overview.jpg
+│   ├── Dashboard_Agent_Performance.jpg
+│   └── Dashboard_SLA_Trends.jpg
 └── Insights/
     └── business_insights.md
 ```
 
 ## 🎯 Project Objective
 
-The objective is to transform IT Help Desk case data into useful operational insights that can support service-performance monitoring, agent evaluation, and identification of SLA risks.
+The objective is to transform IT Help Desk case data into useful operational insights that can support service-performance monitoring, agent evaluation, workload analysis, and identification of SLA risks.
 
 ## 👨‍💻 Author
 
@@ -66,4 +86,4 @@ The objective is to transform IT Help Desk case data into useful operational ins
 
 B.Tech Computer Science Engineering | Aspiring Data Analyst
 
-**Skills:** SQL • Python • Power BI • Excel • DAX • Data Analysis
+**Skills:** SQL • Python • Power BI • Excel • DAX • Data Analysis • Data Visualization
