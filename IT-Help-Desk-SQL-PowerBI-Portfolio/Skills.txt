@@ -1,0 +1,10 @@
+SQL
+MySQL
+Data Analysis
+Power BI
+DAX
+Data Visualization
+Data Cleaning
+Common Table Expressions (CTEs)
+Window Functions
+Data Analytics

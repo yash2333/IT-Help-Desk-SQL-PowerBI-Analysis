@@ -1,0 +1,21 @@
+🚀 SQL + Power BI Data Analytics Project
+
+I recently completed an IT Help Desk Analytics project using SQL and Power BI.
+
+The project focuses on:
+🔹 SLA compliance
+🔹 Agent performance and ranking
+🔹 Average resolution time
+🔹 Priority-wise risk analysis
+🔹 Monthly resolution trends
+🔹 Case-type SLA performance
+🔹 Weekly agent workload
+🔹 Severity-wise resolution analysis
+
+From the SQL side, I worked with CTEs, CASE statements, aggregations, joins, RANK(), LAG(), running totals, and date/time functions.
+
+This project helped me strengthen my ability to turn operational data into meaningful business analysis.
+
+Tools: SQL | MySQL | Power BI | DAX
+
+#DataAnalytics #DataAnalyst #SQL #MySQL #PowerBI #DAX #BusinessIntelligence #DataVisualization
